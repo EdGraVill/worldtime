@@ -1,7 +1,6 @@
 {
   "name": "worldtime",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "date-fns": "^2.16.1",
@@ -49,5 +48,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://EdGraVill.github.io/worldtime"
 }
