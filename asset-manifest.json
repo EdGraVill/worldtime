@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/worldtime/static/css/main.e328ed51.chunk.css",
-    "main.js": "/worldtime/static/js/main.7674bd65.chunk.js",
-    "main.js.map": "/worldtime/static/js/main.7674bd65.chunk.js.map",
+    "main.js": "/worldtime/static/js/main.4085259c.chunk.js",
+    "main.js.map": "/worldtime/static/js/main.4085259c.chunk.js.map",
     "runtime-main.js": "/worldtime/static/js/runtime-main.9cbc06fa.js",
     "runtime-main.js.map": "/worldtime/static/js/runtime-main.9cbc06fa.js.map",
     "static/js/2.d09ae4cd.chunk.js": "/worldtime/static/js/2.d09ae4cd.chunk.js",
     "static/js/2.d09ae4cd.chunk.js.map": "/worldtime/static/js/2.d09ae4cd.chunk.js.map",
     "index.html": "/worldtime/index.html",
-    "precache-manifest.caa1c311e68c6cc245bf1e166b504d3c.js": "/worldtime/precache-manifest.caa1c311e68c6cc245bf1e166b504d3c.js",
+    "precache-manifest.9a11623cc7de81b618aa039a3830f821.js": "/worldtime/precache-manifest.9a11623cc7de81b618aa039a3830f821.js",
     "service-worker.js": "/worldtime/service-worker.js",
     "static/css/main.e328ed51.chunk.css.map": "/worldtime/static/css/main.e328ed51.chunk.css.map",
     "static/js/2.d09ae4cd.chunk.js.LICENSE.txt": "/worldtime/static/js/2.d09ae4cd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9cbc06fa.js",
     "static/js/2.d09ae4cd.chunk.js",
     "static/css/main.e328ed51.chunk.css",
-    "static/js/main.7674bd65.chunk.js"
+    "static/js/main.4085259c.chunk.js"
   ]
 }
