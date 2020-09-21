@@ -1,6 +1,6 @@
 import { TimeZone } from "./commonTypes";
 
-export const BASE_URL = 'http://worldtimeapi.org/api';
+export const BASE_URL = 'https://worldtimeapi.org/api';
 
 export const getAvailableTimezones = async (): Promise<string[]> => {
   const request = await fetch(`${BASE_URL}/timezone`);
